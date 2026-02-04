@@ -1,3 +1,3 @@
 # sconl.github.io
 
-my personal github page
+My personal github page.
